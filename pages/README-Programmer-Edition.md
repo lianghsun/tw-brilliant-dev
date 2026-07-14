@@ -121,6 +121,6 @@
 * :white_check_mark: [bu-ketao 不客套](https://github.com/notoriouslab/bu-ketao)：專為中文設計的 LLM 輸出壓縮規則集，歸納 14 類中文特有冗餘，支援 Claude Code、ChatGPT 等，實測約 72% token 壓縮
 * :white_check_mark: [browser-mcp-lite](https://github.com/notoriouslab/browser-mcp-lite)：讓 AI 助理操作已登入 Chrome 的極簡 MCP server，讀網頁、截圖、跑腳本，全部程式碼約 500 行、可自行審計
 * :white_check_mark: [trad-zh-search](https://github.com/notoriouslab/trad-zh-search)：繁體中文全文檢索前處理工具，以中研院 CKIP 分詞加 bigram 索引改善繁中分詞品質，可搭配 Meilisearch、Elasticsearch
-* :white_check_mark: [issueops-digest](https://github.com/notoriouslab/issueops-digest)：用 GitHub Issue 當操作介面的情報收集工具，Actions 自動搜尋、AI 評分，勾選後自動抓全文存成 Markdown,fork 即用
+* :white_check_mark: [issueops-digest](https://github.com/notoriouslab/issueops-digest)：用 GitHub Issue 當操作介面的情報收集工具，Actions 自動搜尋、AI 評分，勾選後自動抓全文存成 Markdown，fork 即用
 * :white_check_mark: [gmail-statement-fetcher](https://github.com/notoriouslab/gmail-statement-fetcher)：自動從 Gmail 下載銀行對帳單 PDF 的命令列工具，銀行規則寫在 JSON 設定檔，新增銀行免改程式
 * :white_check_mark: [personal-cfo](https://github.com/notoriouslab/personal-cfo)：個人財務體檢與退休監控的開源參考實作，確定性運算零 AI 幻覺，內建 glide path 股債比監控，資料全留本地
