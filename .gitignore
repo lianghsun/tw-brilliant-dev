@@ -1,0 +1,9 @@
+# 環境變數
+.env
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
