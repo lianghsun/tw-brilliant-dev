@@ -110,3 +110,7 @@
 * :white_check_mark: [台灣 AEC 產業開源知識庫](https://github.com/h30190/HJPLUS_Taiwan_Architect_KB)：給建築、工程、營造從業者的協作知識庫，收錄法規檢討、施工指引等 AI 技能模組，社群持續以 PR 擴充
 * :white_check_mark: [Taiwan Tender MCP](https://github.com/h30190/SearchProcurementTenders-crawler.Ver)：查詢政府電子採購網標案的 MCP 工具，讓 AI 助理直接檢索與分析台灣標案情報
 * :white_check_mark: [台灣建築法規查詢 MCP](https://github.com/h30190/HJPLUS_Taiwan_building_code_tracker_MCP)：整合全國法規資料庫條文與內政部解釋函令的建築法規查詢工具，附本地快取
+
+#### Maple（Mapleeeeeeeeeee）（台北） - [GitHub](https://github.com/Mapleeeeeeeeeee)
+* :white_check_mark: [cc-session-reader](https://github.com/Mapleeeeeeeeeee/cc-session-reader)：讀取 Claude Code session 記錄並產出精簡摘要的 CLI 工具，純靜態提取不經 LLM，典型可省 80% 以上 token，跨平台附一鍵安裝腳本
+* :white_check_mark: [BilingualSub](https://github.com/Mapleeeeeeeeeee/bilingualsub)：YouTube 雙語字幕產生器，自動語音辨識、LLM 翻譯並輸出 SRT/ASS 雙語字幕，支援硬體加速字幕燒錄
