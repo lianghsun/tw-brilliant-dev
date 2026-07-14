@@ -1,0 +1,28 @@
+---
+---
+@import "{{ site.theme }}";
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans TC",
+    "PingFang TC", "Microsoft JhengHei", Helvetica, Arial, sans-serif;
+}
+
+.page-header {
+  background-color: #0b6e4f;
+  background-image: linear-gradient(120deg, #0b6e4f, #14919b);
+}
+
+.main-content {
+  h4 {
+    margin-top: 1.6rem;
+    margin-bottom: 0.4rem;
+  }
+
+  ul {
+    margin-top: 0.2rem;
+  }
+
+  img.emoji {
+    vertical-align: -0.1em;
+  }
+}

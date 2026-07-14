@@ -1,0 +1,7 @@
+title: 台灣獨立開發者專案列表
+description: 聚合台灣獨立開發者的專案
+lang: zh-TW
+theme: jekyll-theme-cayman
+
+plugins:
+  - jemoji
