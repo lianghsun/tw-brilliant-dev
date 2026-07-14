@@ -124,3 +124,6 @@
 * :white_check_mark: [issueops-digest](https://github.com/notoriouslab/issueops-digest)：用 GitHub Issue 當操作介面的自動情報收集工具——開 Issue 填關鍵字，GitHub Actions 自動搜尋、AI 評分過濾後回傳勾選清單，在手機上勾選想讀的文章並關閉 Issue，全文就自動抓回來存成 Markdown；免架後台、免月費，fork 即用
 * :white_check_mark: [gmail-statement-fetcher](https://github.com/notoriouslab/gmail-statement-fetcher)：自動從 Gmail 下載銀行對帳單 PDF 的命令列工具，每家銀行的辨識規則寫在 JSON 設定檔裡，新增銀行不用改程式碼；支援 IMAP 與 OAuth 2.0 兩種登入方式，內建去重機制不會重複下載
 * :white_check_mark: [personal-cfo](https://github.com/notoriouslab/personal-cfo)：個人月度財務體檢與退休監控的開源參考實作——銀行帳單進，損益表、資產負債表與退休金投影出，全部用確定性 Python 運算（零 AI 幻覺），內建隨年齡調整股債比的 glide path、偏離軌道才提醒，資料全留本地，fork 後改一個 config.yaml 就能用
+
+#### lollapalooza - [GitHub](https://github.com/aqua5230)
+* :white_check_mark: [usage](https://github.com/aqua5230/usage)：AI 額度監控工具，把 Claude Code、Codex、Antigravity 的額度與花費釘在 macOS 選單列，監控本身不消耗任何 AI 額度，250+ 星 - [更多介紹](https://aqua5230.github.io/usage/)
