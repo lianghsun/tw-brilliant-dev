@@ -150,9 +150,9 @@
 * :white_check_mark: [從零打造 LLM 互動教材](https://ai-twinkle.github.io/llm-from-scratch-course/)：對應《Build a Large Language Model （From Scratch）》各章的原創互動講義，打開網頁即可學
 
 #### Jacob Mei（notoriouslab）（台北） - [GitHub](https://github.com/notoriouslab), [部落格](https://jacobmei.com)
-* :white_check_mark: [TrailPaint 路小繪](https://trailpaint.org/app/)：手繪風路線地圖工具，把登山、旅遊的回憶變成一張插畫風地圖——匯入照片（EXIF 自動抓拍攝地點）或登山 App 的 GPX/KML 路線，3 分鐘就能輸出 IG-ready 圖片或自動導覽的故事地圖；零後端、免註冊、資料全留在瀏覽器，PWA 可裝到手機主畫面，支援中英日三語
-* :white_check_mark: [Doc Cleaner](https://github.com/notoriouslab/doc-cleaner)：文件轉 Markdown 桌面 App（macOS/Windows），把 PDF、Word、Excel、PowerPoint、Apple Keynote/Numbers、EPUB 電子書等 16 種格式拖進視窗，就轉出乾淨的 Markdown——表格完整保留、中文無損，全程在自己電腦上處理不上雲端，免費、零設定
-* :white_check_mark: [Vault Curate](https://community.obsidian.md/plugins/vault-curate)：Obsidian 筆記的語意搜尋外掛，在官方社群外掛市場一鍵安裝——搜「禱告」也能找到寫「靈修」的筆記，中文搜尋特別準；模型在自己電腦上跑，免 API key、免註冊，超過 2,300 人下載使用
+* :white_check_mark: [TrailPaint 路小繪](https://trailpaint.org/app/)：手繪風路線地圖工具，匯入照片或 GPX/KML 路線就能輸出插畫風地圖與故事地圖，零後端、免註冊，支援中英日三語
+* :white_check_mark: [Doc Cleaner](https://github.com/notoriouslab/doc-cleaner)：文件轉 Markdown 桌面 App（macOS/Windows），PDF、Office、EPUB 等 16 種格式拖放即轉，表格保留、中文無損，全程本機處理
+* :white_check_mark: [Vault Curate](https://community.obsidian.md/plugins/vault-curate)：Obsidian 中文語意搜尋外掛，官方社群市場一鍵安裝，模型在本機執行、免 API key，超過 2,300 次下載
 
 ---
 

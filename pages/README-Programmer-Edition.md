@@ -116,11 +116,11 @@
 * :white_check_mark: [BilingualSub](https://github.com/Mapleeeeeeeeeee/bilingualsub)：YouTube 雙語字幕產生器，自動語音辨識、LLM 翻譯並輸出 SRT/ASS 雙語字幕，支援硬體加速字幕燒錄
 
 #### Jacob Mei（notoriouslab）（台北） - [GitHub](https://github.com/notoriouslab), [部落格](https://jacobmei.com)
-* :white_check_mark: [doc-cleaner](https://github.com/notoriouslab/doc-cleaner)：日常文件轉 Markdown 的命令列工具，一個指令涵蓋 PDF、Word/Excel/PowerPoint、Apple Keynote/Numbers、EPUB 電子書等 16 種格式，表格完整保留、中文文件友好，全程在本機處理不經雲端，適合建立自己的 AI 知識庫，290+ 星
-* :white_check_mark: [vault-curate](https://github.com/notoriouslab/vault-curate)：Obsidian 語意搜尋外掛，解決「筆記寫『靈修』、搜『禱告』找不到」的痛點——BM25 關鍵字、本機 WebGPU 中文 embedding 模型與模糊標題三路混合檢索，中文搜尋品質勝過一般多語模型，免 API key、已上架官方社群外掛市場
-* :white_check_mark: [bu-ketao 不客套](https://github.com/notoriouslab/bu-ketao)：專為中文設計的 LLM 輸出壓縮規則集——中文 AI 的廢話結構跟英文不同（沒有冠詞可砍），因此歸納出「好的，讓我來幫你分析」「希望這對你有幫助」等 14 類中文特有冗餘，一套規則同時支援 Claude Code、ChatGPT、Cursor、Copilot，實測約 72% token 壓縮且語意零損失
-* :white_check_mark: [browser-mcp-lite](https://github.com/notoriouslab/browser-mcp-lite)：讓 AI 助理操作你「真正的瀏覽器」的 MCP server——沿用 Chrome 已登入的分頁讀網頁、截圖、跑腳本，不像 headless 方案看不到登入狀態；全部程式碼約 500 行、可自行審計，MCP 端點附 token 驗證、擴充功能只要最小權限
-* :white_check_mark: [trad-zh-search](https://github.com/notoriouslab/trad-zh-search)：繁體中文全文檢索的前處理工具，解決主流搜尋引擎靠 jieba（簡中語料訓練）導致繁中分詞品質差的老問題——用中研院 CKIP 分詞加 bigram 索引雙保險，讓「因信稱義」不再被拆成碎片，附可自訂的領域字典，可搭配 Meilisearch、Elasticsearch 等使用
-* :white_check_mark: [issueops-digest](https://github.com/notoriouslab/issueops-digest)：用 GitHub Issue 當操作介面的自動情報收集工具——開 Issue 填關鍵字，GitHub Actions 自動搜尋、AI 評分過濾後回傳勾選清單，在手機上勾選想讀的文章並關閉 Issue，全文就自動抓回來存成 Markdown；免架後台、免月費，fork 即用
-* :white_check_mark: [gmail-statement-fetcher](https://github.com/notoriouslab/gmail-statement-fetcher)：自動從 Gmail 下載銀行對帳單 PDF 的命令列工具，每家銀行的辨識規則寫在 JSON 設定檔裡，新增銀行不用改程式碼；支援 IMAP 與 OAuth 2.0 兩種登入方式，內建去重機制不會重複下載
-* :white_check_mark: [personal-cfo](https://github.com/notoriouslab/personal-cfo)：個人月度財務體檢與退休監控的開源參考實作——銀行帳單進，損益表、資產負債表與退休金投影出，全部用確定性 Python 運算（零 AI 幻覺），內建隨年齡調整股債比的 glide path、偏離軌道才提醒，資料全留本地，fork 後改一個 config.yaml 就能用
+* :white_check_mark: [doc-cleaner](https://github.com/notoriouslab/doc-cleaner)：文件轉 Markdown 的命令列工具，一個指令涵蓋 16 種格式，表格保留、中文友好、全程本機，適合建自己的 AI 知識庫，290+ 星
+* :white_check_mark: [vault-curate](https://github.com/notoriouslab/vault-curate)：Obsidian 語意搜尋外掛，BM25、本機 WebGPU 中文 embedding 與模糊標題三路混合檢索，中文搜尋品質佳、免 API key
+* :white_check_mark: [bu-ketao 不客套](https://github.com/notoriouslab/bu-ketao)：專為中文設計的 LLM 輸出壓縮規則集，歸納 14 類中文特有冗餘，支援 Claude Code、ChatGPT 等，實測約 72% token 壓縮
+* :white_check_mark: [browser-mcp-lite](https://github.com/notoriouslab/browser-mcp-lite)：讓 AI 助理操作已登入 Chrome 的極簡 MCP server，讀網頁、截圖、跑腳本，全部程式碼約 500 行、可自行審計
+* :white_check_mark: [trad-zh-search](https://github.com/notoriouslab/trad-zh-search)：繁體中文全文檢索前處理工具，以中研院 CKIP 分詞加 bigram 索引改善繁中分詞品質，可搭配 Meilisearch、Elasticsearch
+* :white_check_mark: [issueops-digest](https://github.com/notoriouslab/issueops-digest)：用 GitHub Issue 當操作介面的情報收集工具，Actions 自動搜尋、AI 評分，勾選後自動抓全文存成 Markdown,fork 即用
+* :white_check_mark: [gmail-statement-fetcher](https://github.com/notoriouslab/gmail-statement-fetcher)：自動從 Gmail 下載銀行對帳單 PDF 的命令列工具，銀行規則寫在 JSON 設定檔，新增銀行免改程式
+* :white_check_mark: [personal-cfo](https://github.com/notoriouslab/personal-cfo)：個人財務體檢與退休監控的開源參考實作，確定性運算零 AI 幻覺，內建 glide path 股債比監控，資料全留本地
